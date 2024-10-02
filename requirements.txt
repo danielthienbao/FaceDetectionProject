@@ -1,3 +1,4 @@
 opencv-python
 opencv-python-headless
 numpy                    
+run python face_dectection.py
